@@ -1,0 +1,5 @@
+.secret.json
+*.sqlite3
+.git/
+.idea/
+*wsgi.py
